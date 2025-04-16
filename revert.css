@@ -7,6 +7,10 @@
   --divider-subtle: #000;
 }
 
+.visual-refresh .sidebar_c48ade:after {
+  height: 0;
+}
+
 .acronym_f34534 {
   font-size: 8px;
   line-height: 18px;
