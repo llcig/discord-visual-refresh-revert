@@ -1,0 +1,121 @@
+.visual-refresh.theme-darker, .visual-refresh .theme-darker {
+  --border-faint: #000;
+  --border-strong: #000;
+  --border-subtle: #000;
+  --border-normal: #000;
+  --app-border-frame: #000;
+  --divider-subtle: #000;
+}
+
+.visual-refresh .wrapper_ef3116 {
+  margin-bottom: 0;
+}
+
+.visual-refresh .panels_c48ade {
+  left: var(--space-80);
+  width: calc(100% - var(--space-40)* 2);
+}
+
+.visual-refresh .base_c48ade {
+  grid-template-rows: none;
+}
+
+.bar_c38106 {
+  display: none;
+  padding: 0;
+  min-height: 0;
+}
+
+.blockedAction__7a70a {
+    cursor: not-allowed;
+    display: none;
+}
+img[alt="Image"] {
+    filter: blur(0px);
+}
+.markup__75297 a, .fakeLink_ada32f {
+  color: #00a6e6;
+}
+
+:where(.visual-refresh) .wrapperCommon__29444 .mainContent__29444 {
+  flex-direction: row-reverse;
+  justify-content: left;
+}
+
+.name__20a53 {
+  font-weight: 400;
+}
+
+.overflow__82b15 {
+  font-weight: 400;
+}
+
+.visual-refresh .closedFolderIconWrapper__48112 div {
+  border-radius: 50% !important;
+  width: 16px;
+  height: 16px;
+}
+
+.expandedFolderIconWrapper__48112 {
+  width: 48px !important;
+  height: 48px !important;
+  margin: 0 !important;
+}
+
+[id^=folder-items-] {
+  height: unset !important;
+}
+
+.blobContainer_e5445c foreignObject:hover,
+.blobContainer_e5445c.selected_e5445c foreignObject {
+  border-radius: 25% !important;
+}
+
+.blobContainer_e5445c foreignObject,
+.listItemWrapper__91816 foreignObject {
+  transition: border-radius 0.2s linear;
+  border-radius: 50%;
+}
+
+.stack_dbd263>.listItem__650eb,
+.listItemWrapper__91816 {
+  svg {
+    top: 0;
+    left: 0;
+  }
+
+  foreignObject {
+    transform: translate(-4px, -4px);
+    mask: none;
+  }
+
+  .wrapper_cc5dd2,
+  foreignObject,
+  .wrapper__6e9f8,
+  mask,
+  use,
+  img,
+  .acronym__6e9f8 {
+    width: 48px !important;
+    height: 48px !important;
+  }
+}
+
+.attachButtonInner__0923f>svg {
+  width: 26px;
+  height: 26px;
+}
+
+.attachButtonInner__0923f {
+  height: 26px;
+}
+
+.attachButton__0923f {
+  padding-left: 18px !important;
+  padding-right: 18px !important;
+}
+
+.placeholder__1b31f,
+.editor__1b31f {
+  margin-left: 0 !important;
+}
