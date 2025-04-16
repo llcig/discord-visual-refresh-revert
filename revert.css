@@ -7,13 +7,26 @@
   --divider-subtle: #000;
 }
 
+.circleIconButton__5bc7e {
+  width: 48px;
+  height: 48px;
+}
+
+.expandedFolderIconWrapper__48112 > svg {
+  width: 24px;
+  height: 24px;
+}
+
 .visual-refresh .wrapper_ef3116 {
   margin-bottom: 0;
 }
 
 .visual-refresh .panels_c48ade {
-  left: var(--space-80);
-  width: calc(100% - var(--space-40)* 2);
+  left: 73px;
+  width: calc(100% - 73px);
+  border-radius: 0;
+  border: 0;
+  bottom: 0;
 }
 
 .visual-refresh .base_c48ade {
