@@ -1,0 +1,9 @@
+.blockedAction__7a70a {
+    cursor: not-allowed;
+    display: none;
+}
+
+/* Set to more than 0 to block user-sent images. */
+img[alt="Image"] {
+    filter: blur(0px);
+}
