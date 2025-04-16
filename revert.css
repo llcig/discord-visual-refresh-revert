@@ -7,6 +7,11 @@
   --divider-subtle: #000;
 }
 
+.visual-refresh .childWrapperNoHoverBg__6e9f8 {
+  width: 48px;
+  height: 48px;
+}
+
 .visual-refresh .sidebar_c48ade:after {
   height: 0;
 }
@@ -44,8 +49,6 @@
 
 .bar_c38106 {
   display: none;
-  padding: 0;
-  min-height: 0;
 }
 
 .markup__75297 a, .fakeLink_ada32f {
